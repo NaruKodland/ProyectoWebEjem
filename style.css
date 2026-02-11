@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playwrite+GB+J+Guides:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: aqua;
+    font-family: "Pacifico", cursive;
+    margin: 0;
+  
+}
+.gato{
+    background-color: blue;
+    margin: 100px;
+    padding: 50px;
+}
+.gato h1{
+    font-family: 'Courier New', Courier, monospace;
+}
